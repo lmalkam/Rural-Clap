@@ -51,7 +51,7 @@ const Body_1 = () => {
             h={"100%"}
           >
             <VStack gap={5}>
-              <Text className="heading">URBAN COMPANY</Text>
+              <Text className="heading">RURAL CLAP</Text>
               <Text className="subHeading">
                 Quality home services, on demand
               </Text>
