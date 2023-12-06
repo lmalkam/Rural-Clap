@@ -12,14 +12,6 @@ The cloned version is responsive as well.
 
 
 
-## Authors
-
-- [@HemanthKumar-CN](https://github.com/HemanthKumar-CN)
-- [@Suraj Dongre](https://github.com/surajDongre-16)
-- [@Shreenath Panchal](https://github.com/Aknathpanchal)
-- [@Rohit Kumar](https://github.com/rk6093720)
-
-
 
 ## Screenshots
 
